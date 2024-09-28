@@ -162,4 +162,3 @@ cython_debug/
 #.idea/
 creadentials.json
 
-test.py
